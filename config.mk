@@ -173,7 +173,7 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    Havoc-Fonts
+    Arsenic-Fonts
 
 # GBoard themes
 PRODUCT_COPY_FILES += \

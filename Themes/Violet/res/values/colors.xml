@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Havoc Themes  -->
+    <!-- Arsenic Themes  -->
     <color name="theme_background_shady">#8e24aa</color>
     <color name="theme_background_glassy">#ae8e24aa</color>
     <color name="theme_notification_background_shady">#ff8e24aa</color>
