@@ -55,7 +55,8 @@ PRODUCT_PACKAGES += \
     ThemeVermilion \
     ThemeBlack \
     ThemeAlmostBlack \
-    ThemeDarkAF
+    ThemeDarkAF \
+    ThemeBlackPearl
 
 # Accents
 PRODUCT_PACKAGES += \
@@ -114,7 +115,8 @@ PRODUCT_PACKAGES += \
     AccentHazedPink \
     AccentColdYellow \
     AccentNewHouseOrange \
-    AccentIllusionsPurple
+    AccentIllusionsPurple \
+    AccentOnePlusRed
 
 # QS tile styles
 PRODUCT_PACKAGES += \
